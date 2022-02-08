@@ -2,15 +2,20 @@
 <html>
 <head>
   <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  {% if page.title %}<title>{{ page.title }}</title>{% endif %}
+  <link href="https://api.fontshare.com/css?f[]=sentient@1&display=swap" rel="stylesheet">
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <script src="https://kit.fontawesome.com/4451c49a2a.js" crossorigin="anonymous"></script>
 </head>
 <body>
   <div id="main">
     <div id="content">
     {{ content }}
     </div>
+    <footer>
+      <a href="https://jmablog.com">Return to jmablog.com</a>
+    </footer>
   </div>
 </body>
 </html>

@@ -1,91 +1,226 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James Adams CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# James Adams
+Data scientist, sports therapist, educator, former parkour coach.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
+<a href="james@jmablog.com">james@jmablog.com</a>
+&nbsp;&nbsp; <a href="https://jmablog.com">jmablog.com</a>
+&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jmablog/">LinkedIn</a>
+&nbsp;&nbsp;&nbsp; <i class="fab fa-github"></i> <a href="https://github.com/jmablog/">GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 - 2022`
+__Data Science Course__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+[*General Assembly*](https://generalassemb.ly/)
 
-- Sizar
+- Data cleaning, exploration, and visualisation techniques in Python
+- Modelling with regression, classification, and clustering machine learning
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2020 - 2021`
+__MRes Sport & Exercise Science (Distinction)__
 
-- Fellow
+*London Metropolitan University*
+<br><br>
+`2017 - 2020`
+__BSc Sports Therapy (First Class Hons.)__
+
+*London Metropolitan University*
+
+- Received Best Performance and Highest Degree Mark in Subject Group Award
 
 
 
-## Awards
+## Experience
 
+`2022 - Present`
+**Associate Lecturer**
+
+*London Metropolitan University*
+
+- Designing and delivering lectures and practical tutorials on statistics and research skills for first year undergraduates and Masters degree students
+- Setting and assessment of coursework at undergraduate and Masters level
+- Instituted and managed a department wide switch to modern statistical applications and their delivery to students
+
+`2020 - 2021`
+**Teaching in Higher Education Work Placement**
+
+*London Metropolitan University*
+
+- Delivering lectures, tutorials, and assessments in modules including statistics for sports science, biomechanics, sports therapy, and business studies
+
+`2019`
+**Sports Therapist Placement**
+
+*[Clinic4Sport](https://www.clinic4sport.com/)*
+
+- Providing pitch side first aid for Polytechnic FC and Civil Service FC during match games, alongside pre- and post-game sports therapy treatments such as sports massage, stretching, and injury advice
+- Delivering sports massages at large sporting events, including the London Triathlon 2019, Prudential Ride100 2019, and the Royal Parks Half Marathon 2019
+
+`2019 - 2020`
+**Sports Therapist Placement**
+
+*NFL Academy, London*
+
+- Assisting the therapy team for the NFL Academy, a new initiative training young players a US college football career
+- Included assisting with pre-training treatments such as stretching and taping, assisting with pitch side first-aid when required, and delivering supervised post-training treatments such as sports massage, rehabilitation exercises and injury assessments
+
+`2012 - 2019`
+**Personal Trainer**
+
+*JMA Training*
+
+- 1-1 personal training with clients from a wide variety of backgrounds and fitness levels/experiences, delivering in-depth knowledge of all exercises and how best to implement them, with the ability to adjust on the fly as required
+- Regular assessments of client expectations and goals, designing and implementing fitness programs with constant tracking and evaluation while providing motivation, encouragement and inspiration
+
+`2012 - 2017`
+**Chief of Operations**
+
+*[Parkour Generations](https://parkourgenerations.com/)*
+
+- General management of the company and Chainstore Gym & Parkour Academy facility. Responsibities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
+- As a coach, also regularly led training classes for participants of all ability levels, in both indoor and outdoor environments, using a high level of creativity and excellent communication skills to teach complex movements and techniques
+
+`2010 - 2012`
+**Enforcements Section Team Leader**
+
+*HM Courts & Tribunals Service, Royal Courts of Justice*
+
+- Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff, reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
+
+## Professional Qualifications
+
+`2021 - Current`
+**Member**
+
+*Society of Sports Therapists*
+
+- Includes medical malpractise and public liability insurance
+
+`2021 - Current`
+**Associate Fellow (AFHEA)**
+
+*AdvanceHE*
+
+- Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
+
+`2015`
+**YMCA Level 2 Certificate in Instructing Parkour Fitness (Parkour Fitness Specialist)**
+
+*Parkour UK*
+<br><br>
 `2012`
-President, *Royal Society*, London, UK
+**International Diploma in Advanced Personal Training**
 
-Associate, *French Academy of Science*, Paris, France
+*Premier Training International*
 
+- Active IQ Level 3 Certificate in Personal Training
+- Active IQ Level 2 Certificate in Fitness Instruction
+
+`2011`
+**Level 1 Certificate in Coaching Parkour/Freerunning (A.D.A.P.T.)**
+
+*Parkour UK / 1st4Sport*
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2021`
+**Common Parkour Vault Techniques, Landing Styles, and Their Effects on Landing Forces**
 
-`1669`
-Lectiones opticæ.
+*[Journal of Sports Sciences](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
 
-etc. etc. etc.
+- Abstract published in special edition of the Journal of Sports Sciences following poster presention at BASES Conference 2021
+- Full paper and dataset also published online for the parkour community
+- Winner of the **Human Kinetics Poster Presentation Award** at [BASES 2021 Conference](https://www.bases.org.uk/article-annual_conference_2021_award_winners_announced.html)
 
-### Patents
+### Self-published
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2021`
+**Using the Expertise of Parkour Coaches to Understand Parkour Movement: The Kong Vault**
 
+*[DOI: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
 
-## Occupation
+- Qualitative study using the empirical knowledge of experienced parkour coaches to construct a deterministic model of a parkour movement
+- Full paper and dataset published online for the parkour community
 
-`1600`
-__Royal Mint__, London
+## Personal Projects
 
-- Warden
-- Minted coins
+**Parkour Clinic**
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+*[https://parkour.clinic](https://parkour.clinic)*
 
+- Free online sports therapy consultations for parkour athletes.
+- Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community.
+- Hand-built site with Hugo, HTML, and TailwindCSS.
 
+**tinieR: R package**
+
+*[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
+
+- An R package to shrink image filesizes using the TinyPNG.com API.
+- Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques.
+
+**SquatCam**
+
+*[https://squatcam.vercel.app](https://squatcam.vercel.app)*
+
+- Real-time joint position feedback for squatting using PoseNet machine-learning algorithm in ml5.js.
+- Languages used: Javascript, HTML, CSS *(custom and TailwindCSS)*.
+
+## Skills
+
+**Data science**
+
+- Understanding of developing and tuning machine learning models for regression, classification, and clustering problems
+- Detailed understanding of qualitative and quantitative research methodology
+- Deep appreciation for statistical thinking and the importance of evidence-backed decision making
+- Keen desire to contribute research to the greater scientific understanding of parkour in sport and exercise science
+- Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
+
+**Coding**
+
+- R *(proficient)*
+- Python
+- Web *(HTML, CSS, JavaScript, Hugo, Tailwind)*
+- Git version control *(with GitHub)*
+
+**Sports therapy**
+
+- Experience delivering therapy and exercise sessions to an incredibly diverse range of patients and customers, including professional athletes, emergency service members, hard-of-hearing or deaf teenagers, and mentally and physically disabled children
+- In-depth knowledge of human anatomy, biomechanics, and sports injuries
+- Empathetic and patient-focused pedagogy of care
+
+**Project management**
+
+- Comprehensive experience organising projects across teams and organisations
+- Wide variety of project management software and techniques
+- Detail-orientated approach
+
+**Misc**
+
+- Microsoft Office suite
+- Graphic design / image editing
+- Financial records and book keeping software
+
+### Other details
+
+- Full, clean driving license
+- Enhanced DBS certificate
+- First Aid trained
+
+**References available on request**
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2022 -->
 
 
