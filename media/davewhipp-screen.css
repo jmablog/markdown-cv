@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@400;700&display=swap');
 
 html,
 body,
@@ -162,7 +162,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: FiraGO, Monaco, Menlo, monospace, sans-serif;
+	font-family: FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
 	color: #aaa;
 }
 
@@ -263,7 +263,7 @@ a:hover {
 	position: relative;
 	left: 20%;
 	color: #bc412b;
-	font-family: FiraGO, Monaco, Menlo, monospace, sans-serif;
+	font-family: FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
 	font-size: 100%;
 }
 

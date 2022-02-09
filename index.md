@@ -20,8 +20,10 @@ __Data Science Course__
 
 [*General Assembly*](https://generalassemb.ly/)
 
-- Data cleaning, exploration, and visualisation techniques in Python
-- Modelling with regression, classification, and clustering machine learning
+- Data cleaning, exploration, and analysis in Python using NumPy, Pandas, and scikit-learn
+- Data visualisation with matplotlib and Seaborn
+- Modelling with regression, classification, and clustering machine learning techniques
+- Investigating seasonality and trends in time series data and sentiment analysis in natural language
 
 `2020 - 2021`
 __MRes Sport & Exercise Science (Distinction)__
@@ -99,21 +101,21 @@ __BSc Sports Therapy (First Class Hons.)__
 `2021 - Current`
 **Member**
 
-*Society of Sports Therapists*
+*[Society of Sports Therapists](https://society-of-sports-therapists.org/)*
 
 - Includes medical malpractise and public liability insurance
 
 `2021 - Current`
 **Associate Fellow (AFHEA)**
 
-*AdvanceHE*
+*[AdvanceHE](https://www.advance-he.ac.uk/)*
 
 - Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
 
 `2015`
 **YMCA Level 2 Certificate in Instructing Parkour Fitness (Parkour Fitness Specialist)**
 
-*Parkour UK*
+*[Parkour UK](https://parkour.uk/)*
 <br><br>
 `2012`
 **International Diploma in Advanced Personal Training**
@@ -129,7 +131,7 @@ __BSc Sports Therapy (First Class Hons.)__
 *Parkour UK / 1st4Sport*
 
 
-## Publications
+## Writing
 
 ### Journals
 
@@ -139,7 +141,7 @@ __BSc Sports Therapy (First Class Hons.)__
 *[Journal of Sports Sciences](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
 
 - Abstract published in special edition of the Journal of Sports Sciences following poster presention at BASES Conference 2021
-- Full paper and dataset also published online for the parkour community
+- [Full paper](http://dx.doi.org/10.13140/RG.2.2.21957.47849) and [dataset](https://doi.org/10.6084/m9.figshare.12231089) also published online for the parkour community
 - Winner of the **Human Kinetics Poster Presentation Award** at [BASES 2021 Conference](https://www.bases.org.uk/article-annual_conference_2021_award_winners_announced.html)
 
 ### Self-published
@@ -150,9 +152,16 @@ __BSc Sports Therapy (First Class Hons.)__
 *[DOI: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
 
 - Qualitative study using the empirical knowledge of experienced parkour coaches to construct a deterministic model of a parkour movement
-- Full paper and dataset published online for the parkour community
+- Full paper and [dataset](https://doi.org/10.6084/m9.figshare.16727314.v1) published online for the parkour community
 
-## Personal Projects
+`2021`
+**Pandoc Filters in Bookdown**
+
+*[jmablog.com/post/pandoc-filters/](https://jmablog.com/post/pandoc-filters/)*
+
+- Tutorial post written for the R community explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
+
+## Projects
 
 **Parkour Clinic**
 
@@ -222,5 +231,4 @@ __BSc Sports Therapy (First Class Hons.)__
 <!-- ### Footer
 
 Last updated: Feb 2022 -->
-
 
