@@ -178,6 +178,13 @@ __BSc Sports Therapy (First Class Hons.)__
 - An R package to shrink image filesizes using the TinyPNG.com API.
 - Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques.
 
+**Predicting Ultra Marathon Times**
+
+*[https://github.com/jmablog/ultra-marathons-analysis](https://github.com/jmablog/ultra-marathons-analysis)*
+
+- Final project for [General Assembly's](https://generalassemb.ly/) data science course
+- Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn 
+
 **SquatCam**
 
 *[https://squatcam.vercel.app](https://squatcam.vercel.app)*
