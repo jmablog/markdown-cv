@@ -9,8 +9,8 @@ Data scientist, sports therapist, educator, former parkour coach.
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
 <a href="james@jmablog.com">james@jmablog.com</a>
 &nbsp;&nbsp; <a href="https://jmablog.com">jmablog.com</a>
-&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jmablog/">LinkedIn</a>
-&nbsp;&nbsp;&nbsp; <i class="fab fa-github"></i> <a href="https://github.com/jmablog/">GitHub</a>
+&nbsp;&nbsp;&nbsp; <span class="linebreak"></span><i class="fab fa-linkedin hide-icon"></i> <a class="print-url" href="https://www.linkedin.com/in/jmablog"><span>LinkedIn</span></a>
+&nbsp;&nbsp;&nbsp; <i class="fab fa-github hide-icon"></i> <a class="print-url pipebreak" href="https://github.com/jmablog"><span>GitHub</span></a>
 </div>
 
 ## Education

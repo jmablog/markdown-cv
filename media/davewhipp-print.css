@@ -163,7 +163,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
+	font-family: Inter, FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
 	color: #505E69;
 }
 
@@ -271,7 +271,7 @@ a:hover {
 	position: relative;
 	left: 20%;
 	color: #505E69;
-	font-family: FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
+	font-family: Inter, FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
 	font-size: 90%;
 }
 
@@ -305,4 +305,30 @@ strong {
 footer {
 	display: hidden;
 	visibility: hidden;
+}
+
+/* .hide-icon {
+	display: none;
+	visibility: hidden;
+} */
+
+.linebreak::before {
+	content: "\A";
+	white-space: pre;
+}
+
+.pipebreak::before {
+	content: "";
+	white-space: pre;
+}
+
+.print-url span {
+	display: none;
+	visibility: hidden;
+}
+
+.print-url::after {
+	content: attr(href);
+	display: inline-block;
+	padding-top: 5px;
 }
