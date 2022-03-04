@@ -152,10 +152,10 @@ body {
 
 p {
 	position: relative;
-	left: 20%;
+	left: 17%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 65%;
+	width: 68%;
 	break-inside: avoid;
 }
 
@@ -170,15 +170,15 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -17%;
+	right: -14%;
 	break-after: avoid;
 }
 
 
 ul {
 	position: relative;
-	left: 20%;
-	width: 60%;
+	left: 17%;
+	width: 63%;
 	margin-bottom: 1.5em;
 	font-size: 90%;
 	/*margin-top: -0.5em;*/
@@ -225,15 +225,16 @@ h1 {
 	font-size: 2em;
 	line-height: 1em;
 	position: relative;
-	left: 20%;
+	left: 17%;
 	padding: 0.5em 0;
 	font-weight: 600;
 }
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	/* font-style: italic; */
+	font-size: 90%;
+	max-width: 68%;
 }
 
 h2 {
@@ -243,18 +244,18 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 15%;
+	width: 13%;
 }
 
 
 h3 {
-	font-size: 1em;
+	font-size: 0.9em;
 	line-height: 2em;
 	color: #505E69;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 15%;
+	width: 13%;
 }
 
 a {
@@ -269,7 +270,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 20%;
+	left: 17%;
 	color: #505E69;
 	font-family: Inter, FiraGO, "Fira Code", Monaco, Menlo, monospace, sans-serif;
 	font-size: 90%;
