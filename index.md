@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-Data scientist, sports therapist, educator, former parkour coach.
+I'm a driven and detail-oriented career switcher with a passion for data science. With a background in biomechanics, statistical analysis and teaching, I'm looking to challenge myself while putting my data skills to good use.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -13,36 +13,10 @@ Data scientist, sports therapist, educator, former parkour coach.
 &nbsp;&nbsp;&nbsp; <i class="fab fa-github hide-icon"></i> <a class="print-url pipebreak" href="https://github.com/jmablog"><span>GitHub</span></a>
 </div>
 
-## Education
-
-`2021 - 2022`
-__Data Science Course__
-
-[*General Assembly*](https://generalassemb.ly/)
-
-- Data cleaning, exploration, and analysis in Python using NumPy, Pandas, and scikit-learn
-- Data visualisation with matplotlib and Seaborn
-- Modelling with regression, classification, and clustering machine learning techniques
-- Investigating seasonality and trends in time series data and sentiment analysis in natural language
-
-`2020 - 2021`
-__MRes Sport & Exercise Science (Distinction)__
-
-*London Metropolitan University*
-<br><br>
-`2017 - 2020`
-__BSc Sports Therapy (First Class Hons.)__
-
-*London Metropolitan University*
-
-- Received Best Performance and Highest Degree Mark in Subject Group Award
-
-
-
 ## Experience
 
 `2022 - Present`
-**Associate Lecturer**
+**Associate Lecturer - Statistics and Research Methods**
 
 *London Metropolitan University*
 
@@ -86,7 +60,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
-- General management of the company and Chainstore Gym & Parkour Academy facility. Responsibities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
+- General management of the company and Chainstore Gym & Parkour Academy facility. Responsibilities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
 - As a coach, also regularly led training classes for participants of all ability levels, in both indoor and outdoor environments, using a high level of creativity and excellent communication skills to teach complex movements and techniques
 
 `2010 - 2012`
@@ -96,21 +70,32 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff, reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
 
-## Professional Qualifications
+## Education
 
-`2021 - Current`
-**Member**
+`2021 - 2022`
+__Data Science__
 
-*[Society of Sports Therapists](https://society-of-sports-therapists.org/)*
+[*General Assembly*](https://generalassemb.ly/)
 
-- Includes medical malpractise and public liability insurance
+- Data cleaning, exploration, and analysis in Python using NumPy, Pandas, and scikit-learn
+- Data visualisation with matplotlib and Seaborn
+- Modelling with regression, classification, and clustering machine learning techniques
+- Investigating seasonality and trends in time series data and sentiment analysis in natural language
 
-`2021 - Current`
-**Associate Fellow (AFHEA)**
+`2020 - 2021`
+__MRes Sport & Exercise Science (Distinction)__
 
-*[AdvanceHE](https://www.advance-he.ac.uk/)*
+*London Metropolitan University*
 
-- Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
+- Natural Language Processing in R to determine sentimentality in qualitative interview data
+
+`2017 - 2020`
+__BSc Sports Therapy (First Class Hons.)__
+
+*London Metropolitan University*
+
+- Force platform data analysis with repeated-measures multi-factorial ANOVA in R
+- Received Best Performance and Highest Degree Mark in Subject Group Award
 
 `2015`
 **YMCA Level 2 Certificate in Instructing Parkour Fitness (Parkour Fitness Specialist)**
@@ -129,6 +114,54 @@ __BSc Sports Therapy (First Class Hons.)__
 **Level 1 Certificate in Coaching Parkour/Freerunning (A.D.A.P.T.)**
 
 *Parkour UK / 1st4Sport*
+
+
+## Professional Memberships
+
+`2021 - Current`
+**Member**
+
+*[Society of Sports Therapists](https://society-of-sports-therapists.org/)*
+
+- Includes medical malpractise and public liability insurance
+
+`2021 - Current`
+**Associate Fellow (AFHEA)**
+
+*[AdvanceHE](https://www.advance-he.ac.uk/)*
+
+- Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
+
+## Projects
+
+**Predicting Ultra Marathon Times**
+
+*[https://github.com/jmablog/ultra-marathons-analysis](https://github.com/jmablog/ultra-marathons-analysis)*
+
+- Final project for [General Assembly's](https://generalassemb.ly/) data science course
+- Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn
+
+**tinieR: R package**
+
+*[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
+
+- An R package to shrink image filesizes using the TinyPNG.com API
+- Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques
+
+**SquatCam**
+
+*[https://squatcam.vercel.app](https://squatcam.vercel.app)*
+
+- Real-time joint position feedback for squatting using PoseNet machine-learning algorithm in ml5.js
+- Languages used: Javascript, HTML, CSS
+
+**Parkour Clinic**
+
+*[https://parkour.clinic](https://parkour.clinic)*
+
+- Free online sports therapy consultations for parkour athletes
+- Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community
+- Hand-built site with Hugo, HTML, and TailwindCSS
 
 
 ## Writing
@@ -161,37 +194,6 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Tutorial post written for the R community explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
 
-## Projects
-
-**Parkour Clinic**
-
-*[https://parkour.clinic](https://parkour.clinic)*
-
-- Free online sports therapy consultations for parkour athletes.
-- Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community.
-- Hand-built site with Hugo, HTML, and TailwindCSS.
-
-**tinieR: R package**
-
-*[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
-
-- An R package to shrink image filesizes using the TinyPNG.com API.
-- Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques.
-
-**Predicting Ultra Marathon Times**
-
-*[https://github.com/jmablog/ultra-marathons-analysis](https://github.com/jmablog/ultra-marathons-analysis)*
-
-- Final project for [General Assembly's](https://generalassemb.ly/) data science course
-- Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn 
-
-**SquatCam**
-
-*[https://squatcam.vercel.app](https://squatcam.vercel.app)*
-
-- Real-time joint position feedback for squatting using PoseNet machine-learning algorithm in ml5.js.
-- Languages used: Javascript, HTML, CSS *(custom and TailwindCSS)*.
-
 ## Skills
 
 **Data science**
@@ -202,12 +204,12 @@ __BSc Sports Therapy (First Class Hons.)__
 - Keen desire to contribute research to the greater scientific understanding of parkour in sport and exercise science
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
 
-**Coding**
+**Technical**
 
-- R *(proficient)*
-- Python
-- Web *(HTML, CSS, JavaScript, Hugo, Tailwind)*
-- Git version control *(with GitHub)*
+- R *(proficient, including Tidyverse and base R approaches, and package development)*
+- Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
+- Web *(HTML, CSS, JavaScript)*
+- git
 
 **Sports therapy**
 
@@ -215,27 +217,9 @@ __BSc Sports Therapy (First Class Hons.)__
 - In-depth knowledge of human anatomy, biomechanics, and sports injuries
 - Empathetic and patient-focused pedagogy of care
 
-**Project management**
-
-- Comprehensive experience organising projects across teams and organisations
-- Wide variety of project management software and techniques
-- Detail-orientated approach
-
-**Misc**
-
-- Microsoft Office suite
-- Graphic design / image editing
-- Financial records and book keeping software
-
-### Other details
-
-- Full, clean driving license
-- Enhanced DBS certificate
-- First Aid trained
-
-**References available on request**
+<br>
+_**References available on request**_
 
 <!-- ### Footer
 
 Last updated: Feb 2022 -->
-
