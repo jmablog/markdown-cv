@@ -226,8 +226,9 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	/* font-style: italic; */
+	font-size: 90%;
+	max-width: 50%;
 }
 
 h2 {
