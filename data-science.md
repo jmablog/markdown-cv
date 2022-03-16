@@ -61,7 +61,6 @@ __BSc Sports Therapy (First Class Hons.)__
 - Force platform data analysis with repeated-measures multi-factorial ANOVA in R
 - Received Best Performance and Highest Degree Mark in Subject Group Award
 
-
 ## Skills
 
 **Data science**
@@ -77,6 +76,14 @@ __BSc Sports Therapy (First Class Hons.)__
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
 - Web *(HTML, CSS, JavaScript)*
 - git
+
+## Volunteering
+
+**Codebar Python Coach**
+
+[*codebar.io*](https://www.codebar.io/)
+
+- Helping beginners learn Python through paired coaching and tutorials, remotely and in-person
 
 ## Projects
 
@@ -103,6 +110,8 @@ __BSc Sports Therapy (First Class Hons.)__
 *[https://parkour.clinic](https://parkour.clinic)*
 
 - Personal non-profit project started to continue sports therapy work while studying at Masters level
+
+<br><br>
 
 ## Writing and posters
 

@@ -132,6 +132,14 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
 
+## Volunteering
+
+**Codebar Python Coach**
+
+[*codebar.io*](https://www.codebar.io/)
+
+- Helping beginners learn Python through paired coaching and tutorials, remotely and in-person
+
 ## Projects
 
 **Predicting Ultra Marathon Times**
@@ -162,7 +170,6 @@ __BSc Sports Therapy (First Class Hons.)__
 - Free online sports therapy consultations for parkour athletes
 - Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community
 - Hand-built site with Hugo, HTML, and TailwindCSS
-
 
 ## Writing
 
