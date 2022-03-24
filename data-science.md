@@ -140,6 +140,13 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Tutorial post explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
 
+`2022`
+**Learning Statistics with Jamovi**
+
+*[https://jmablog.github.io/jamovi-worksheets/](https://jmablog.github.io/jamovi-worksheets/)*
+
+- Worksheets written to aid in learning statistics with [Jamovi](https://www.jamovi.org) at undergraduate and Masters level, made available online and listed on the Jamovi community resources page
+
 <br>
 _**References available on request**_
 
