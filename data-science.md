@@ -46,12 +46,21 @@ __Data Science__
 
 - Data cleaning, exploration, modelling, and analysis in Python using NumPy, Pandas, and scikit-learn, with visualisation in matplotlib and Seaborn
 
+`2022`
+__SQL For Data Science__
+
+[*UCDavis / Coursera*](https://coursera.org/verify/ME9TKTYNHSQ8)
+
+- Using SQL to extract, filter, aggregate, join, and analyse data
+
 `2020 - 2021`
 __MRes Sport & Exercise Science (Distinction)__
 
 *London Metropolitan University*
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
+
+<br><br><br><br>
 
 `2017 - 2020`
 __BSc Sports Therapy (First Class Hons.)__
@@ -74,6 +83,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - R *(proficient, including Tidyverse and base R approaches, and package development)*
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
+- SQL
 - Web *(HTML, CSS, JavaScript)*
 - git
 
@@ -111,8 +121,6 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Personal non-profit project started to continue sports therapy work while studying at Masters level
 
-<br><br>
-
 ## Writing and posters
 
 ### Journals
@@ -120,7 +128,7 @@ __BSc Sports Therapy (First Class Hons.)__
 `2021`
 **Common Parkour Vault Techniques, Landing Styles, and Their Effects on Landing Forces**
 
-*[Journal of Sports Sciences](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
+*[Journal of Sports Sciences, doi: 10.1080/02640414.2021.1978748](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
 
 - Winner of the **Human Kinetics Poster Presentation Award** at [BASES 2021 Conference](https://www.bases.org.uk/article-annual_conference_2021_award_winners_announced.html)
 
@@ -129,7 +137,7 @@ __BSc Sports Therapy (First Class Hons.)__
 `2021`
 **Using the Expertise of Parkour Coaches to Understand Parkour Movement: The Kong Vault**
 
-*[DOI: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
+*[doi: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
 
 - Qualitative study using interviews with experienced coaches to construct a deterministic model of a movement, including natural language processing for sentiment analysis of interview texts
 

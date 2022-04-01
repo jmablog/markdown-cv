@@ -82,6 +82,13 @@ __Data Science__
 - Modelling with regression, classification, and clustering machine learning techniques
 - Investigating seasonality and trends in time series data and sentiment analysis in natural language
 
+`2022`
+__SQL For Data Science__
+
+[*UCDavis / Coursera*](https://coursera.org/verify/ME9TKTYNHSQ8)
+
+- Using SQL to extract, filter, aggregate, join, and analyse data
+
 `2020 - 2021`
 __MRes Sport & Exercise Science (Distinction)__
 
@@ -178,7 +185,7 @@ __BSc Sports Therapy (First Class Hons.)__
 `2021`
 **Common Parkour Vault Techniques, Landing Styles, and Their Effects on Landing Forces**
 
-*[Journal of Sports Sciences](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
+*[Journal of Sports Sciences, doi: 10.1080/02640414.2021.1978748](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1978748)*
 
 - Abstract published in special edition of the Journal of Sports Sciences following poster presention at BASES Conference 2021
 - [Full paper](http://dx.doi.org/10.13140/RG.2.2.21957.47849) and [dataset](https://doi.org/10.6084/m9.figshare.12231089) also published online for the parkour community
@@ -189,7 +196,7 @@ __BSc Sports Therapy (First Class Hons.)__
 `2021`
 **Using the Expertise of Parkour Coaches to Understand Parkour Movement: The Kong Vault**
 
-*[DOI: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
+*[doi: 10.13140/RG.2.2.33633.02402](http://dx.doi.org/10.13140/RG.2.2.33633.02402)*
 
 - Qualitative study using the empirical knowledge of experienced parkour coaches to construct a deterministic model of a parkour movement
 - Full paper and [dataset](https://doi.org/10.6084/m9.figshare.16727314.v1) published online for the parkour community
@@ -222,6 +229,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - R *(proficient, including Tidyverse and base R approaches, and package development)*
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
+- SQL
 - Web *(HTML, CSS, JavaScript)*
 - git
 
