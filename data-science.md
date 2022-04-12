@@ -52,6 +52,7 @@ __SQL For Data Science__
 [*UCDavis / Coursera*](https://coursera.org/verify/ME9TKTYNHSQ8)
 
 - Using SQL to extract, filter, aggregate, join, and analyse data
+- Using Apache Spark and DataBricks for distributed computing with Spark SQL
 
 `2020 - 2021`
 __MRes Sport & Exercise Science (Distinction)__
@@ -60,7 +61,7 @@ __MRes Sport & Exercise Science (Distinction)__
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
 
-<br><br><br><br>
+<br><br>
 
 `2017 - 2020`
 __BSc Sports Therapy (First Class Hons.)__
@@ -89,11 +90,9 @@ __BSc Sports Therapy (First Class Hons.)__
 
 ## Volunteering
 
-**Codebar Python Coach**
+**Codebar Beginners Python Coach**
 
 [*codebar.io*](https://www.codebar.io/)
-
-- Helping beginners learn Python through paired coaching and tutorials, remotely and in-person
 
 ## Projects
 
