@@ -15,7 +15,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 
 ## Experience
 
-`2022 - Present`
+`Feb 2022 - June 2022`
 **Associate Lecturer - Statistics and Research Methods**
 
 *London Metropolitan University*
@@ -24,14 +24,14 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - Setting and assessment of coursework at undergraduate and Masters level
 - Instituted and managed a department wide switch to modern statistical applications and their delivery to students
 
-`2020 - 2021`
+`Oct 2020 - Oct 2021`
 **Teaching in Higher Education Work Placement**
 
 *London Metropolitan University*
 
 - Delivering lectures, tutorials, and assessments in modules including statistics for sports science, biomechanics, sports therapy, and business studies
 
-`2019`
+`Oct 2019 - Jan 2020`
 **Sports Therapist Placement**
 
 *[Clinic4Sport](https://www.clinic4sport.com/)*
@@ -39,7 +39,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - Providing pitch side first aid for Polytechnic FC and Civil Service FC during match games, alongside pre- and post-game sports therapy treatments such as sports massage, stretching, and injury advice
 - Delivering sports massages at large sporting events, including the London Triathlon 2019, Prudential Ride100 2019, and the Royal Parks Half Marathon 2019
 
-`2019 - 2020`
+`Oct 2019 - Apr 2020`
 **Sports Therapist Placement**
 
 *NFL Academy, London*
@@ -47,7 +47,11 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - Assisting the therapy team for the NFL Academy, a new initiative training young players a US college football career
 - Included assisting with pre-training treatments such as stretching and taping, assisting with pitch side first-aid when required, and delivering supervised post-training treatments such as sports massage, rehabilitation exercises and injury assessments
 
-`2012 - 2019`
+<div class="print-breaks">
+&nbsp;
+</div>
+
+`May 2012 - Sept 2019`
 **Personal Trainer**
 
 *JMA Training*
@@ -55,7 +59,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - 1-1 personal training with clients from a wide variety of backgrounds and fitness levels/experiences, delivering in-depth knowledge of all exercises and how best to implement them, with the ability to adjust on the fly as required
 - Regular assessments of client expectations and goals, designing and implementing fitness programs with constant tracking and evaluation while providing motivation, encouragement and inspiration
 
-`2012 - 2017`
+`May 2012 - Feb 2017`
 **Chief of Operations**
 
 *[Parkour Generations](https://parkourgenerations.com/)*
@@ -63,7 +67,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - General management of the company and Chainstore Gym & Parkour Academy facility. Responsibilities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
 - As a coach, also regularly led training classes for participants of all ability levels, in both indoor and outdoor environments, using a high level of creativity and excellent communication skills to teach complex movements and techniques
 
-`2010 - 2012`
+`Jan 2010 - May 2012`
 **Enforcements Section Team Leader**
 
 *HM Courts & Tribunals Service, Royal Courts of Justice*
@@ -72,7 +76,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 
 ## Education
 
-`2021 - 2022`
+`Nov 2021 - Feb 2022`
 __Data Science__
 
 [*General Assembly*](https://generalassemb.ly/)
@@ -82,22 +86,29 @@ __Data Science__
 - Modelling with regression, classification, and clustering machine learning techniques
 - Investigating seasonality and trends in time series data and sentiment analysis in natural language
 
-`2022`
-__SQL For Data Science__
+`Apr 2022`
+__SQL For Data Science Specialisation__
 
-[*UCDavis / Coursera*](https://coursera.org/verify/ME9TKTYNHSQ8)
+[*UCDavis / Coursera*](https://www.coursera.org/account/accomplishments/specialization/certificate/SXFXZXV2Y2L3)
 
 - Using SQL to extract, filter, aggregate, join, and analyse data
 - Using Apache Spark and DataBricks for distributed computing with Spark SQL
 
-`2020 - 2021`
+`May 2022`
+__Data Visualisation__
+
+[*freeCodeCamp*](https://freecodecamp.org/certification/jmablog/data-visualization)
+
+- Using [d3.js](https://d3js.org) to create interactive data driven visualisations on the web
+
+`Oct 2020 - Oct 2021`
 __MRes Sport & Exercise Science (Distinction)__
 
 *London Metropolitan University*
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
 
-`2017 - 2020`
+`Feb 2017 - June 2020`
 __BSc Sports Therapy (First Class Hons.)__
 
 *London Metropolitan University*
@@ -126,14 +137,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 ## Professional Memberships
 
-`2021 - Current`
-**Member**
-
-*[Society of Sports Therapists](https://society-of-sports-therapists.org/)*
-
-- Includes medical malpractise and public liability insurance
-
-`2021 - Current`
+`Oct 2021 - Current`
 **Associate Fellow (AFHEA)**
 
 *[AdvanceHE](https://www.advance-he.ac.uk/)*
@@ -142,6 +146,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 ## Volunteering
 
+`2022 - Present`
 **Codebar Python Coach**
 
 [*codebar.io*](https://www.codebar.io/)
@@ -156,6 +161,10 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Final project for [General Assembly's](https://generalassemb.ly/) data science course
 - Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn
+
+<div class="print-breaks">
+&nbsp;
+</div>
 
 **tinieR: R package**
 
@@ -209,6 +218,10 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Tutorial post written for the R community explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `2022`
 **Learning Statistics with Jamovi**
 
@@ -231,7 +244,7 @@ __BSc Sports Therapy (First Class Hons.)__
 - R *(proficient, including Tidyverse and base R approaches, and package development)*
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
 - SQL
-- Web *(HTML, CSS, JavaScript)*
+- Web *(HTML, CSS, JavaScript, d3.js)*
 - git
 
 **Sports therapy**

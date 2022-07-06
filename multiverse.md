@@ -15,7 +15,7 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 
 ## Experience
 
-`Feb 2022 - June 2022`
+`2022 - Present`
 **Associate Lecturer - Statistics and Research Methods**
 
 *London Metropolitan University*
@@ -23,30 +23,30 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 - Designing and delivering lectures, practical tutorials, and assessments on statistics and research skills for first year undergraduates and Masters degree students
 - Instituted and managed a department wide switch to modern statistical applications and their delivery to students
 
-`May 2012 - Feb 2017`
+`2020 - 2021`
+**Teaching in Higher Education Work Placement (200 hours)**
+
+*London Metropolitan University*
+
+- Delivering lectures, tutorials, and assessments in modules including statistics for sports science, biomechanics, sports therapy, and business studies
+
+`2012 - 2017`
 **Chief of Operations**
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
 - General management of the company and Chainstore Gym & Parkour Academy facility. Responsibilities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
 
-`Jan 2010 - May 2012`
-**Enforcements Section Team Leader**
-
-*HM Courts & Tribunals Service, Royal Courts of Justice*
-
-- Leading on the day-to-day running of the Enforcement Section of the High Court, managing seven staff, workload KPIs, and reporting regularly to Senior Civil Service management and the Judiciary
-
 ## Education
 
-`Nov 2021 - Feb 2022`
-__Data Science Bootcamp__
+`2021 - 2022`
+__Data Science__
 
 [*General Assembly*](https://generalassemb.ly/)
 
 - Data cleaning, exploration, modelling, and analysis in Python using NumPy, Pandas, and scikit-learn, with visualisation in matplotlib and Seaborn
 
-`Apr 2022`
+`2022`
 __SQL For Data Science Specialisation__
 
 [*UCDavis / Coursera*](https://www.coursera.org/account/accomplishments/specialization/certificate/SXFXZXV2Y2L3)
@@ -54,25 +54,23 @@ __SQL For Data Science Specialisation__
 - Using SQL to extract, filter, aggregate, join, and analyse data
 - Using Apache Spark and DataBricks for distributed computing with Spark SQL
 
-`June 2022`
+`2022`
 __Data Visualisation__
 
 [*freeCodeCamp*](https://freecodecamp.org/certification/jmablog/data-visualization)
 
 - Using [d3.js](https://d3js.org) to create interactive data driven visualisations on the web
 
-<div class="print-breaks">
-&nbsp;
-</div>
+<br><br>
 
-`Oct 2020 - Oct 2021`
+`2020 - 2021`
 __MRes Sport & Exercise Science (Distinction)__
 
 *London Metropolitan University*
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
 
-`Feb 2017 - June 2020`
+`2017 - 2020`
 __BSc Sports Therapy (First Class Hons.)__
 
 *London Metropolitan University*
@@ -80,7 +78,28 @@ __BSc Sports Therapy (First Class Hons.)__
 - Force platform data analysis with repeated-measures multi-factorial ANOVA in R
 - Received Best Performance and Highest Degree Mark in Subject Group Award
 
+## Professional Memberships
+
+`2021 - Current`
+**Associate Fellow (AFHEA)**
+
+*[AdvanceHE](https://www.advance-he.ac.uk/)*
+
+- Meeting the criteria of Descriptor 1 of the UK Professional Standards Framework for teaching and supporting learning in higher education
+
+## Volunteering
+
+**Codebar Beginners Python Coach**
+
+[*codebar.io*](https://www.codebar.io/)
+
 ## Skills
+
+**Education**
+
+- Experience delivering a broad scope of materials to an equally broad variety of audiences, from coaching physical parkour skills with a group of deaf teenagers to complex statistics formulas with Masters-level university students
+- Experience planning and writing course materials, including lectures, practical tutorials, and assessment briefs
+- Commitment to celebrating the diversity of learners and their journeys to education, and the importance of adapting the material and delivery to the learner
 
 **Data science**
 
@@ -89,6 +108,8 @@ __BSc Sports Therapy (First Class Hons.)__
 - Deep appreciation for statistical thinking and the importance of evidence-backed decision making
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
 
+<br><br><br><br>
+
 **Technical**
 
 - R *(proficient, including Tidyverse and base R approaches, and package development)*
@@ -96,15 +117,9 @@ __BSc Sports Therapy (First Class Hons.)__
 - SQL
 - Web *(HTML, CSS, JavaScript, d3.js)*
 - git
+- Statistical applications such as Excel, SPSS, and Jamovi
 
-## Volunteering
-
-`2022 - Present`
-**Codebar Beginners Python Coach**
-
-[*codebar.io*](https://www.codebar.io/)
-
-## Projects
+## Projects and writing
 
 **General Assembly Final Project: Predicting Ultra-Marathon Results**
 
@@ -117,24 +132,6 @@ __BSc Sports Therapy (First Class Hons.)__
 *[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
 
 - Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques
-
-<div class="print-breaks">
-&nbsp;
-</div>
-
-**SquatCam**
-
-*[https://squatcam.vercel.app](https://squatcam.vercel.app)*
-
-- Real-time joint position feedback for squatting using PoseNet machine-learning algorithm in[ml5js](https://ml5js.org/)
-
-**Parkour Clinic**
-
-*[https://parkour.clinic](https://parkour.clinic)*
-
-- Personal non-profit project started to continue sports therapy work while studying at Masters level
-
-## Writing and posters
 
 ### Journals
 
@@ -168,7 +165,6 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Worksheets written to aid in learning statistics with [Jamovi](https://www.jamovi.org) at undergraduate and Masters level, made available online and listed on the Jamovi community resources page
 
-<br>
 _**References available on request**_
 
 <!-- ### Footer
