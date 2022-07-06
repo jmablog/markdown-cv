@@ -301,3 +301,7 @@ footer {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
+.print-breaks {
+	display:none;
+}

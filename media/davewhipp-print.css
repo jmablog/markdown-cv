@@ -333,3 +333,8 @@ footer {
 	display: inline-block;
 	padding-top: 5px;
 }
+
+.print-breaks {
+	display: block;
+	page-break-after: always;
+}
