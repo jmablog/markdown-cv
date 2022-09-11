@@ -15,6 +15,13 @@ I'm a driven and detail-oriented sports scientist and therapist, with an added p
 
 ## Experience
 
+`Sept 2022 - Present`
+**Data Fellowship Coach**
+
+*[Multiverse](https://www.multiverse.io)*
+
+- Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
+
 `2022 - Present`
 **Associate Lecturer**
 

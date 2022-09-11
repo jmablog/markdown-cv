@@ -15,6 +15,13 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 
 ## Experience
 
+`Sept 2022 - Present`
+**Data Fellowship Coach**
+
+*[Multiverse](https://www.multiverse.io)*
+
+- Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
+
 `Feb 2022 - June 2022`
 **Associate Lecturer - Statistics and Research Methods**
 
@@ -95,6 +102,7 @@ __BSc Sports Therapy (First Class Hons.)__
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
 - SQL
 - Web *(HTML, CSS, JavaScript, d3.js)*
+- Tableau for data visualisations / dashboards
 - git
 
 ## Volunteering
