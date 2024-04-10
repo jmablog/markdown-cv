@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven and detail-oriented career switcher with a passion for data science. With a background in biomechanics, statistical analysis and teaching, I'm looking to challenge myself while putting my data skills to good use.
+I'm a driven and detail-oriented data professional, with a background in operations and management in sport. With a further background in therapy, biomechanics, statistical analysis and teaching, I'm always looking to challenge myself while putting my skills to good use.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -15,12 +15,23 @@ I'm a driven and detail-oriented career switcher with a passion for data science
 
 ## Experience
 
-`Sept 2022 - Present`
+`Nov 2023 - Present`
+**Enterprise Technical Lead**
+
+- Working on the largest Enterprise account at Multiverse to strategise and build bespoke operational and programme customisations to deliver on the needs of the client, and ensuring these are effectively developed with and rolled out to internal stakeholders
+- Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
+- Responsible for the technical expertise of the coaches within the Data Fellowship programme, and in particular the additional technical skills needed to work as an Enteprise coach
+
+*[Multiverse](https://www.multiverse.io)*
+
+`Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
 
 *[Multiverse](https://www.multiverse.io)*
 
 - Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
+-  Covered learning to code with Python, process data with SQL and BI tools, and communicating data projects and results with stakeholders
+- 92% first time pass rate, with all passing apprentices achieving either a merit or distinction
 
 `Feb 2022 - June 2022`
 **Associate Lecturer - Statistics and Research Methods**
