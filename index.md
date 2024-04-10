@@ -18,11 +18,11 @@ I'm a driven and detail-oriented data professional, with a background in operati
 `Nov 2023 - Present`
 **Enterprise Technical Lead**
 
-- Working on the largest Enterprise account at Multiverse to strategise and build bespoke operational and programme customisations to deliver on the needs of the client, and ensuring these are effectively developed with and rolled out to internal stakeholders
+*[Multiverse](https://www.multiverse.io)*
+
+- Working on the largest Enterprise account at Multiverse to strategise and build bespoke operational and programme customisations to deliver on the needs of the client, and ensuring these are effectively developed and rolled out to internal stakeholders
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
 - Responsible for the technical expertise of the coaches within the Data Fellowship programme, and in particular the additional technical skills needed to work as an Enteprise coach
-
-*[Multiverse](https://www.multiverse.io)*
 
 `Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
@@ -49,6 +49,10 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 - Delivering lectures, tutorials, and assessments in modules including statistics for sports science, biomechanics, sports therapy, and business studies
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `Oct 2019 - Jan 2020`
 **Sports Therapist Placement**
 
@@ -65,10 +69,6 @@ I'm a driven and detail-oriented data professional, with a background in operati
 - Assisting the therapy team for the NFL Academy, a new initiative training young players a US college football career
 - Included assisting with pre-training treatments such as stretching and taping, assisting with pitch side first-aid when required, and delivering supervised post-training treatments such as sports massage, rehabilitation exercises and injury assessments
 
-<div class="print-breaks">
-&nbsp;
-</div>
-
 `May 2012 - Sept 2019`
 **Personal Trainer**
 
@@ -82,15 +82,16 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
-- General management of the company and Chainstore Gym & Parkour Academy facility. Responsibilities included KPI tracking, oversight of financial records and budgeting, staff management, and liaising with local councils, schools, and national governing bodies for bookings
-- As a coach, also regularly led training classes for participants of all ability levels, in both indoor and outdoor environments, using a high level of creativity and excellent communication skills to teach complex movements and techniques
+- General management of the company and Chainstore Gym & Parkour Academy facility. Moving from a small group focused on outdoor coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations
+- Other responsibilities included KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies for bookings
 
 `Jan 2010 - May 2012`
 **Enforcements Section Team Leader**
 
 *HM Courts & Tribunals Service, Royal Courts of Justice*
 
-- Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff, reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
+- Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff
+- Responsibilities included reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
 
 ## Education
 
@@ -152,6 +153,9 @@ __BSc Sports Therapy (First Class Hons.)__
 
 *Parkour UK / 1st4Sport*
 
+<div class="print-breaks">
+&nbsp;
+</div>
 
 ## Professional Memberships
 
@@ -180,10 +184,6 @@ __BSc Sports Therapy (First Class Hons.)__
 - Final project for [General Assembly's](https://generalassemb.ly/) data science course
 - Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn
 
-<div class="print-breaks">
-&nbsp;
-</div>
-
 **tinieR: R package**
 
 *[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
@@ -205,6 +205,10 @@ __BSc Sports Therapy (First Class Hons.)__
 - Free online sports therapy consultations for parkour athletes
 - Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community
 - Hand-built site with Hugo, HTML, and TailwindCSS
+
+<div class="print-breaks">
+&nbsp;
+</div>
 
 ## Writing
 
@@ -236,10 +240,6 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Tutorial post written for the R community explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
 
-<div class="print-breaks">
-&nbsp;
-</div>
-
 `2022`
 **Learning Statistics with Jamovi**
 
@@ -256,6 +256,10 @@ __BSc Sports Therapy (First Class Hons.)__
 - Deep appreciation for statistical thinking and the importance of evidence-backed decision making
 - Keen desire to contribute research to the greater scientific understanding of parkour in sport and exercise science
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
+
+<div class="print-breaks">
+&nbsp;
+</div>
 
 **Technical**
 
@@ -277,4 +281,4 @@ _**References available on request**_
 
 <!-- ### Footer
 
-Last updated: Feb 2022 -->
+Last updated: Apr 2024 -->
