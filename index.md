@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven and detail-oriented data professional, with a background in operations and management in sport. With a further background in therapy, biomechanics, statistical analysis and teaching, I'm always looking to challenge myself while putting my skills to good use.
+I'm a driven and detail-oriented data professional, with a background in operations and management. With skills and experience in data  driven insights, coaching, therapy, biomechanics, and statistical analysis, I'm always looking to challenge myself while putting my skills to good use.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -15,14 +15,23 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 ## Experience
 
-`Nov 2023 - Present`
+`July 2024 - Present`
+**Programme Insights Lead, Data Fellowship**
+
+*[Multiverse](https://www.multiverse.io)*
+
+- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programme at Multiverse
+- Responsible for liaising with cross-functional departments to find and manage programme health trends and deliver interventions when programme-wide issues are identified
+- Responsible for the technical expertise of all coaches within the Data Fellowship programme: assessing and delivering training needs, including bespoke training required for customised non-standard elements of programme delivery to larger clients
+
+`Nov 2023 - July 2024`
 **Enterprise Technical Lead**
 
 *[Multiverse](https://www.multiverse.io)*
 
 - Working on the largest Enterprise account at Multiverse to strategise and build bespoke operational and programme customisations to deliver on the needs of the client, and ensuring these are effectively developed and rolled out to internal stakeholders
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
-- Responsible for the technical expertise of the coaches within the Data Fellowship programme, and in particular the additional technical skills needed to work as an Enteprise coach
+- Responsible for the assessment and delivery of additional technical skills needed to work as an Enteprise coach to the coaching team
 
 `Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
@@ -32,6 +41,11 @@ I'm a driven and detail-oriented data professional, with a background in operati
 - Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
 -  Covered learning to code with Python, process data with SQL and BI tools, and communicating data projects and results with stakeholders
 - 92% first time pass rate, with all passing apprentices achieving either a merit or distinction
+
+
+<div class="print-breaks">
+&nbsp;
+</div>
 
 `Feb 2022 - June 2022`
 **Associate Lecturer - Statistics and Research Methods**
@@ -49,9 +63,6 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 - Delivering lectures, tutorials, and assessments in modules including statistics for sports science, biomechanics, sports therapy, and business studies
 
-<div class="print-breaks">
-&nbsp;
-</div>
 
 `Oct 2019 - Jan 2020`
 **Sports Therapist Placement**
@@ -77,13 +88,18 @@ I'm a driven and detail-oriented data professional, with a background in operati
 - 1-1 personal training with clients from a wide variety of backgrounds and fitness levels/experiences, delivering in-depth knowledge of all exercises and how best to implement them, with the ability to adjust on the fly as required
 - Regular assessments of client expectations and goals, designing and implementing fitness programs with constant tracking and evaluation while providing motivation, encouragement and inspiration
 
+
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `May 2012 - Feb 2017`
 **Chief of Operations**
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
 - General management of the company and Chainstore Gym & Parkour Academy facility. Moving from a small group focused on outdoor coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations
-- Other responsibilities included KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies for bookings
+- Other responsibilities included KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
 
 `Jan 2010 - May 2012`
 **Enforcements Section Team Leader**
@@ -127,6 +143,11 @@ __MRes Sport & Exercise Science (Distinction)__
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
 
+
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `Feb 2017 - June 2020`
 __BSc Sports Therapy (First Class Hons.)__
 
@@ -153,9 +174,6 @@ __BSc Sports Therapy (First Class Hons.)__
 
 *Parkour UK / 1st4Sport*
 
-<div class="print-breaks">
-&nbsp;
-</div>
 
 ## Professional Memberships
 
@@ -168,7 +186,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 ## Volunteering
 
-`2022 - Present`
+`2022 - 2024`
 **Codebar Python Coach**
 
 [*codebar.io*](https://www.codebar.io/)
@@ -191,6 +209,11 @@ __BSc Sports Therapy (First Class Hons.)__
 - An R package to shrink image filesizes using the TinyPNG.com API
 - Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques
 
+
+<div class="print-breaks">
+&nbsp;
+</div>
+
 **SquatCam**
 
 *[https://squatcam.vercel.app](https://squatcam.vercel.app)*
@@ -206,9 +229,6 @@ __BSc Sports Therapy (First Class Hons.)__
 - Personal non-profit project started to continue sports therapy work while studying at Masters level, and to give back to the parkour community
 - Hand-built site with Hugo, HTML, and TailwindCSS
 
-<div class="print-breaks">
-&nbsp;
-</div>
 
 ## Writing
 
@@ -247,7 +267,16 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Worksheets written to aid in learning statistics with [Jamovi](https://www.jamovi.org) at undergraduate and Masters level, made available online and listed on the Jamovi community resources page
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 ## Skills
+
+**Project leading and management**
+
+- Cross-functional stakeholder needs assessment and RACI planning
+- Effective project planning and communications
 
 **Data science**
 
@@ -257,17 +286,16 @@ __BSc Sports Therapy (First Class Hons.)__
 - Keen desire to contribute research to the greater scientific understanding of parkour in sport and exercise science
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
 
-<div class="print-breaks">
-&nbsp;
-</div>
 
 **Technical**
 
+- Metabase
+- Coda.io
 - R *(proficient, including Tidyverse and base R approaches, and package development)*
 - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
 - SQL
 - Web *(HTML, CSS, JavaScript, d3.js)*
-- Tableau for data visualisations / dashboards
+- Tableau / Power BI
 - git
 
 **Sports therapy**
@@ -281,4 +309,4 @@ _**References available on request**_
 
 <!-- ### Footer
 
-Last updated: Apr 2024 -->
+Last updated: July 2054 -->
