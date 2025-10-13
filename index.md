@@ -109,10 +109,17 @@ I'm a driven and detail-oriented data professional, with a background in operati
 - Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff
 - Responsibilities included reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
 
-## Education
+## Qualifications & Education
+
+__Microsoft Certified Power BI Data Analyst Associate__
+
+*Microsoft*
+
+- Prepare, model, visualise and analyse data in Power BI
+- Manage and secure Power BI reports and dashboards in the Power BI Service
 
 `Nov 2021 - Feb 2022`
-__Data Science__
+__Data Science Bootcamp__
 
 [*General Assembly*](https://generalassemb.ly/)
 
@@ -129,6 +136,10 @@ __SQL For Data Science Specialisation__
 - Using SQL to extract, filter, aggregate, join, and analyse data
 - Using Apache Spark and DataBricks for distributed computing with Spark SQL
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `May 2022`
 __Data Visualisation__
 
@@ -143,10 +154,6 @@ __MRes Sport & Exercise Science (Distinction)__
 
 - Natural Language Processing in R to determine sentimentality in qualitative interview data
 
-
-<div class="print-breaks">
-&nbsp;
-</div>
 
 `Feb 2017 - June 2020`
 __BSc Sports Therapy (First Class Hons.)__
@@ -202,17 +209,13 @@ __BSc Sports Therapy (First Class Hons.)__
 - Final project for [General Assembly's](https://generalassemb.ly/) data science course
 - Predicting ultra marathon finishing times using Pandas, scikit-learn, and Seaborn
 
+
 **tinieR: R package**
 
 *[https://jmablog.github.io/tinieR](https://jmablog.github.io/tinieR)*
 
 - An R package to shrink image filesizes using the TinyPNG.com API
 - Self-taught R language package development, providing learning on R package internals, unit testing, and continuous integration techniques
-
-
-<div class="print-breaks">
-&nbsp;
-</div>
 
 **SquatCam**
 
@@ -260,6 +263,10 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Tutorial post written for the R community explaining the use of Pandoc's Lua filters feature to manipulate the abstract syntax tree for post-processing of Rmarkdown documents
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `2022`
 **Learning Statistics with Jamovi**
 
@@ -267,9 +274,7 @@ __BSc Sports Therapy (First Class Hons.)__
 
 - Worksheets written to aid in learning statistics with [Jamovi](https://www.jamovi.org) at undergraduate and Masters level, made available online and listed on the Jamovi community resources page
 
-<div class="print-breaks">
-&nbsp;
-</div>
+
 
 ## Skills
 
@@ -280,29 +285,35 @@ __BSc Sports Therapy (First Class Hons.)__
 
 **Data science**
 
-- Understanding of developing and tuning machine learning models for regression, classification, and clustering problems
+- Understanding of developing and tuning machine learning models for variety of analysis needs such as regression, classification, and clustering
 - Detailed understanding of qualitative and quantitative research methodology
 - Deep appreciation for statistical thinking and the importance of evidence-backed decision making
-- Keen desire to contribute research to the greater scientific understanding of parkour in sport and exercise science
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
-
 
 **Technical**
 
-- Metabase
-- Coda.io
-- R *(proficient, including Tidyverse and base R approaches, and package development)*
-- Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
-- SQL
-- Web *(HTML, CSS, JavaScript, d3.js)*
-- Tableau / Power BI
-- git
+- Power BI and Tableau for data reports and dashboarding
+- Extensive experience in building data products in Metabase using SQL
+- Coding languages:
+  - R *(proficient, including Tidyverse and base R approaches, and package development)*
+  - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
+  - SQL
+  - Web *(HTML, CSS, JavaScript, d3.js)*
+- git for collaborative codebase management
+
+**Coaching and teaching**
+- Decade plus experience in coaching and teaching across multiple industries and fields
+- Deeply human-centered pedagogy of development, focused on empowering individuals to achieve their goals using personalised approaches
+
+<div class="print-breaks">
+&nbsp;
+</div>
 
 **Sports therapy**
 
 - Experience delivering therapy and exercise sessions to an incredibly diverse range of patients and customers, including professional athletes, emergency service members, hard-of-hearing or deaf teenagers, and mentally and physically disabled children
 - In-depth knowledge of human anatomy, biomechanics, and sports injuries
-- Empathetic and patient-focused pedagogy of care
+- Empathetic and patient-focused focus of care built upon a scientific evidence based
 
 <br>
 _**References available on request**_
