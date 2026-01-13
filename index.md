@@ -3,25 +3,26 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven and detail-oriented data professional, with a background in operations and management. With skills and experience in data  driven insights, coaching, therapy, biomechanics, and statistical analysis, I'm always looking to challenge myself while putting my skills to good use.
+I'm a driven and detail-oriented data professional, with a background in operations and management. With skills and experience in data driven insights, coaching, therapy, biomechanics, and statistical analysis, I'm always looking to challenge myself while putting my skills to good use.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
 <a href="james@jmablog.com">james@jmablog.com</a>
 &nbsp;&nbsp; <a href="https://jmablog.com">jmablog.com</a>
-&nbsp;&nbsp;&nbsp; <span class="linebreak"></span><i class="fab fa-linkedin hide-icon"></i> <a class="print-url" href="https://www.linkedin.com/in/jmablog"><span>LinkedIn</span></a>
+&nbsp;&nbsp;&nbsp; <span class="linebreak"></span><i class="fab fa-linkedin hide-icon"></i> <a class="print-url" href="https://linkedin.com/in/jmablog"><span>LinkedIn</span></a>
 &nbsp;&nbsp;&nbsp; <i class="fab fa-github hide-icon"></i> <a class="print-url pipebreak" href="https://github.com/jmablog"><span>GitHub</span></a>
 </div>
 
 ## Experience
 
-`July 2024 - Present`
-**Programme Insights Lead, Data Fellowship**
+`July 2024 - Dec 2025`
+**Senior Domain Specialist, Data Domain**
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programme at Multiverse
-- Responsible for liaising with cross-functional departments to find and manage programme health trends and deliver interventions when programme-wide issues are identified
+- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programmes at Multiverse
+- Developed multiple data products (datasets & dashboards) for key programme metric tracking and understanding of trends
+- Responsible for seeking out and liaising with cross-functional departments to improve programme health trends and deliver interventions when programme-wide issues are identified
 - Responsible for the technical expertise of all coaches within the Data Fellowship programme: assessing and delivering training needs, including bespoke training required for customised non-standard elements of programme delivery to larger clients
 
 `Nov 2023 - July 2024`
@@ -109,7 +110,7 @@ I'm a driven and detail-oriented data professional, with a background in operati
 - Leading on the day to day running of the Enforcement Section of the High Court, managing seven staff
 - Responsibilities included reporting regularly to Senior Civil Service management and the Judiciary, monitoring, compiling and analysing KPIs via the daily statistics for the office, prioritising and managing workload for staff, dealing with customer complaints and managing staff attendance and performance
 
-## Qualifications & Education
+## Education
 
 __Microsoft Certified Power BI Data Analyst Associate__
 

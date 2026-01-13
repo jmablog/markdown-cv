@@ -15,13 +15,14 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 ## Experience
 
-`July 2024 - Present`
+`July 2024 - Dec 2025`
 **Programme Insights Lead, Data Fellowship**
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programme at Multiverse
-- Responsible for liaising with cross-functional departments to build data products and reports for the analysis of programme health data and deliver interventions when programme-wide issues are identified
+- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programmes at Multiverse
+- Developed multiple data products (datasets & dashboards) for key programme metric tracking and understanding of trends
+- Responsible for seeking out and liaising with cross-functional departments to improve programme health trends and deliver interventions when programme-wide issues are identified
 - Responsible for the technical expertise of all coaches within the Data Fellowship programme: assessing and delivering training needs, including bespoke training required for customised non-standard elements of programme delivery to larger clients
 
 `Nov 2023 - July 2024`
@@ -49,7 +50,7 @@ I'm a driven and detail-oriented data professional, with a background in operati
 &nbsp;
 </div>
 
-## Qualifications & Education
+## Education
 
 __Microsoft Certified Power BI Data Analyst Associate__
 
