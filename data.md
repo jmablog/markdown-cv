@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven and detail-oriented data professional, with a background in operations and management. With skills and experience in data  driven insights, coaching, therapy, biomechanics, and statistical analysis, I'm always looking to challenge myself while putting my skills to good use.
+I'm a driven data professional who builds impactful data products and translates complex insights into actionable solutions. With experience spanning automated reporting systems, dashboard development, and cross-functional stakeholder management, I specialize in creating efficient workflows that empower teams to make data-driven decisions. My background in coaching and operations gives me a unique ability to understand user needs and deliver intuitive, self-service analytics tools that drive measurable business outcomes.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -20,10 +20,11 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programmes at Multiverse
-- Developed multiple data products (datasets & dashboards) for key programme metric tracking and understanding of trends
-- Responsible for seeking out and liaising with cross-functional departments to improve programme health trends and deliver interventions when programme-wide issues are identified
-- Responsible for the technical expertise of all coaches within the Data Fellowship programme: assessing and delivering training needs, including bespoke training required for customised non-standard elements of programme delivery to larger clients
+- Led data-driven monitoring and optimization of Multiverse's largest educational programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
+- Built end-to-end data products and automation: Created programme scorecards in Metabase using SQL, automated PowerPoint reporting with Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for EPA results, withdrawal analysis, and learner satisfaction metrics
+- Drove measurable programme improvements through data analysis: Identified inflated withdrawal rate calculations through statistical analysis, leading to corrected metrics; analyzed late-stage programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
+- Collaborated cross-functionally to implement data-informed solutions: Partnered with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
+- Provided technical leadership and enablement: Delivered Metabase training and SQL enablement sessions for cross-functional teams; assessed and addressed technical capability gaps across 50+ coaching staff; created documentation and support resources that colleagues cited as saving "over 50% of time" in their workflows
 
 `Nov 2023 - July 2024`
 **Enterprise Technical Lead**
@@ -46,9 +47,9 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 - General management of the company and Chainstore Gym & Parkour Academy facility. Moving from a small group focused on outdoor coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations including KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
 
-<div class="print-breaks">
+<!-- <div class="print-breaks">
 &nbsp;
-</div>
+</div> -->
 
 ## Education
 
@@ -59,7 +60,7 @@ __Microsoft Certified Power BI Data Analyst Associate__
 - Prepare, model, visualise and analyse data in Power BI
 - Manage and secure Power BI reports and dashboards in the Power BI Service
 
-__Data Science Bootcamp__
+__Data Science Fellowship__
 
 [*General Assembly*](https://generalassemb.ly/)
 
@@ -70,16 +71,9 @@ __MRes Sport & Exercise Science (Distinction)__
 
 *London Metropolitan University*
 
-- Natural Language Processing in R to determine sentimentality in qualitative interview data
+- Natural Language Processing in R to create determininistic model from qualitative interview data
 
 ## Skills
-
-**Data science**
-
-- Understanding of developing and tuning machine learning models for variety of analysis needs such as regression, classification, and clustering
-- Detailed understanding of qualitative and quantitative research methodology
-- Deep appreciation for statistical thinking and the importance of evidence-backed decision making
-- Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
 
 **Technical**
 
@@ -92,8 +86,15 @@ __MRes Sport & Exercise Science (Distinction)__
   - Web *(HTML, CSS, JavaScript, d3.js)*
 - git for collaborative codebase management
 
-<br>
-_**References available on request**_
+**Data Analysis / Science**
+
+- Understanding of developing and tuning machine learning models for variety of analysis needs such as regression, classification, and clustering
+- Detailed understanding of qualitative and quantitative research methodology
+- Deep appreciation for statistical thinking and the importance of evidence-backed decision making
+- Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
+
+<!-- <br>
+_**References available on request**_ -->
 
 <!-- ### Footer
 

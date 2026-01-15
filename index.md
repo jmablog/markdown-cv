@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven and detail-oriented data professional, with a background in operations and management. With skills and experience in data driven insights, coaching, therapy, biomechanics, and statistical analysis, I'm always looking to challenge myself while putting my skills to good use.
+I'm a driven data professional who builds impactful data products and translates complex insights into actionable solutions. With experience spanning automated reporting systems, dashboard development, and cross-functional stakeholder management, I specialize in creating efficient workflows that empower teams to make data-driven decisions. My background in coaching and operations gives me a unique ability to understand user needs and deliver intuitive, self-service analytics tools that drive measurable business outcomes.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -20,10 +20,11 @@ I'm a driven and detail-oriented data professional, with a background in operati
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Leading on the effective monitoring, reporting, and problem solving for the effective delivery of the largest data programmes at Multiverse
-- Developed multiple data products (datasets & dashboards) for key programme metric tracking and understanding of trends
-- Responsible for seeking out and liaising with cross-functional departments to improve programme health trends and deliver interventions when programme-wide issues are identified
-- Responsible for the technical expertise of all coaches within the Data Fellowship programme: assessing and delivering training needs, including bespoke training required for customised non-standard elements of programme delivery to larger clients
+- Led data-driven monitoring and optimization of Multiverse's largest educational programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
+- Built end-to-end data products and automation: Created programme scorecards in Metabase using SQL, automated PowerPoint reporting with Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for EPA results, withdrawal analysis, and learner satisfaction metrics
+- Drove measurable programme improvements through data analysis: Identified inflated withdrawal rate calculations through statistical analysis, leading to corrected metrics; analyzed late-stage programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
+- Collaborated cross-functionally to implement data-informed solutions: Partnered with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
+- Provided technical leadership and enablement: Delivered Metabase training and SQL enablement sessions for cross-functional teams; assessed and addressed technical capability gaps across 50+ coaching staff; created documentation and support resources that colleagues cited as saving "over 50% of time" in their workflows
 
 `Nov 2023 - July 2024`
 **Enterprise Technical Lead**
@@ -120,7 +121,7 @@ __Microsoft Certified Power BI Data Analyst Associate__
 - Manage and secure Power BI reports and dashboards in the Power BI Service
 
 `Nov 2021 - Feb 2022`
-__Data Science Bootcamp__
+__Data Science Fellowship__
 
 [*General Assembly*](https://generalassemb.ly/)
 
@@ -284,7 +285,7 @@ __BSc Sports Therapy (First Class Hons.)__
 - Cross-functional stakeholder needs assessment and RACI planning
 - Effective project planning and communications
 
-**Data science**
+**Data analysis / science**
 
 - Understanding of developing and tuning machine learning models for variety of analysis needs such as regression, classification, and clustering
 - Detailed understanding of qualitative and quantitative research methodology
