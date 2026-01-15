@@ -20,9 +20,9 @@ I'm a driven data professional who builds impactful data products and translates
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Led data-driven monitoring and optimization of Multiverse's largest educational programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
+- Led data-driven monitoring and optimisation of Multiverse's largest data programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
 - Built end-to-end data products and automation: Created programme scorecards in Metabase using SQL, automated PowerPoint reporting with Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for EPA results, withdrawal analysis, and learner satisfaction metrics
-- Drove measurable programme improvements through data analysis: Identified inflated withdrawal rate calculations through statistical analysis, leading to corrected metrics; analyzed late-stage programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
+- Drove measurable programme improvements through data analysis: Identified inflated withdrawal rate calculations through statistical analysis, leading to corrected metrics; analysed late-stage programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
 - Collaborated cross-functionally to implement data-informed solutions: Partnered with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
 - Provided technical leadership and enablement: Delivered Metabase training and SQL enablement sessions for cross-functional teams; assessed and addressed technical capability gaps across 50+ coaching staff; created documentation and support resources that colleagues cited as saving "over 50% of time" in their workflows
 
