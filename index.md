@@ -16,7 +16,7 @@ I'm a driven data professional who builds impactful data products and translates
 ## Experience
 
 `July 2024 - Dec 2025`
-**Senior Domain Specialist, Data Domain**
+**Programme Data Analyst & Senior Domain Specialist, Data Domain**
 
 *[Multiverse](https://www.multiverse.io)*
 

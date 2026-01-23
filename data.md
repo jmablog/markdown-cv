@@ -16,7 +16,7 @@ I'm a driven data professional who builds impactful data products and translates
 ## Experience
 
 `July 2024 - Dec 2025`
-**Programme Insights Lead, Data Fellowship**
+**Programme Data Analyst**
 
 *[Multiverse](https://www.multiverse.io)*
 
