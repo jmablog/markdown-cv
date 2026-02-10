@@ -33,7 +33,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 - Worked on the largest Enterprise account at Multiverse to strategise and build bespoke operational and data science programme customisations to deliver on the needs of the client, and designed and delivered learning materials for internal stakeholders on these customisations
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
-- Responsible for the assessment and delivery of additional technical skills needed to work as an Enteprise coach to the coaching team
+- Responsible for the assessment and delivery of additional technical skills needed to work as an Enterprise coach to the coaching team
 
 `Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
@@ -100,8 +100,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
-- General management of the company and Chainstore Gym & Parkour Academy facility. Moving from a small group focused on outdoor coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations
-- Other responsibilities included KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
+- Moving from a small group focused on outdoor sports coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations including KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
 
 `Jan 2010 - May 2012`
 **Enforcements Section Team Leader**

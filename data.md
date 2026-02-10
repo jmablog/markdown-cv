@@ -33,7 +33,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 - Worked on the largest Enterprise account at Multiverse to strategise and build bespoke operational and data science programme customisations to deliver on the needs of the client, and designed and delivered learning materials for internal stakeholders on these customisations
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
-- Responsible for the assessment and delivery of additional technical skills needed to work as an Enteprise coach to the coaching team
+- Responsible for the assessment and delivery of additional technical skills needed to work as an Enterprise coach to the coaching team
 
 `Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
