@@ -3,7 +3,7 @@ layout: cv
 title: James Adams CV
 ---
 # James Adams
-I'm a driven data professional who builds impactful data products and translates complex insights into actionable solutions. With experience spanning automated reporting systems, dashboard development, and cross-functional stakeholder management, I specialize in creating efficient workflows that empower teams to make data-driven decisions. My background in coaching and operations gives me a unique ability to understand user needs and deliver intuitive, self-service analytics tools that drive measurable business outcomes.
+I'm a driven data professional who builds impactful data products and translates complex insights into actionable solutions. With experience spanning automated reporting systems, dashboard development, and cross-functional stakeholder management, I specialise in creating efficient workflows that empower teams to make data-driven decisions. My background in coaching and operations gives me a unique ability to understand user needs and deliver intuitive, self-service analytics tools that drive measurable business outcomes.
 
 <div id="webaddress">
 <a id="address">London, UK &nbsp;&nbsp;&nbsp; </a>
@@ -21,17 +21,19 @@ I'm a driven data professional who builds impactful data products and translates
 *[Multiverse](https://www.multiverse.io)*
 
 - Led data-driven monitoring and optimisation of Multiverse's largest data programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
-- Built end-to-end data products and automation: Created programme scorecards in Metabase using SQL, automated PowerPoint reporting with Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for EPA results, withdrawal analysis, and learner satisfaction metrics
-- Drove measurable programme improvements through data analysis: Identified inflated withdrawal rate calculations through statistical analysis, leading to corrected metrics; analysed late-stage programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
-- Collaborated cross-functionally to implement data-informed solutions: Partnered with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
-- Provided technical leadership and enablement: Delivered Metabase training and SQL enablement sessions for cross-functional teams; assessed and addressed technical capability gaps across 50+ coaching staff; created documentation and support resources that colleagues cited as saving "over 50% of time" in their workflows
+- Built end-to-end data products and automations in Metabase using SQL and Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for assessment results, withdrawals analysis, and learner satisfaction metrics
+- Drove measurable programme improvements through data analysis, with programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
+- Collaborated cross-functionally to implement data-informed solutions by partnering with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
+- Provided technical leadership and enablement by delivering Metabase training and SQL enablement sessions for cross-functional teams after assessing technical capability gaps across 50+ coaching staff
 
 `Nov 2023 - July 2024`
-**Enterprise Technical Lead**
+**Data Science Programme Technical Lead**
 
 *[Multiverse](https://www.multiverse.io)*
 
-- Working on the largest Enterprise account at Multiverse to strategise and build bespoke operational and programme customisations to deliver on the needs of the client, and ensuring these are effectively developed and rolled out to internal stakeholders by managing changes across the business and upskilling data coaches and instructors in new or adapted tools
+- Worked on the largest Enterprise account at Multiverse to strategise and build bespoke operational and data science programme customisations to deliver on the needs of the client, and designed and delivered learning materials for internal stakeholders on these customisations
+- Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
+- Responsible for the assessment and delivery of additional technical skills needed to work as an Enteprise coach to the coaching team
 
 `Sept 2022 - Nov 2023`
 **Data Fellowship Coach**
@@ -40,16 +42,18 @@ I'm a driven data professional who builds impactful data products and translates
 
 - Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
 
+<div class="print-breaks">
+&nbsp;
+</div>
+
 `May 2012 - Feb 2017`
 **Chief of Operations**
 
 *[Parkour Generations](https://parkourgenerations.com/)*
 
-- General management of the company and Chainstore Gym & Parkour Academy facility. Moving from a small group focused on outdoor coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations including KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
+- Moving from a small group focused on outdoor sports coaching to a location based and scaling business of 20+ coaches, I was responsible for managing our transition and developing standardised procedures around memberships, payments, staffing (including coaches, reception, and admin staff) and day-to-day operations including KPI tracking, oversight of financial records and budgeting, and liaising with local councils, schools, and national governing bodies on effective parkour education delivery
 
-<!-- <div class="print-breaks">
-&nbsp;
-</div> -->
+
 
 ## Education
 
