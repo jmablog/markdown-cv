@@ -22,7 +22,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 - Led data-driven monitoring and optimisation of Multiverse's largest data programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
 - Built end-to-end data products and automations in Metabase using SQL and Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for assessment results, withdrawals analysis, and learner satisfaction metrics
-- Drove measurable programme improvements through data analysis, with programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching interventions
+- Drove measurable programme improvements through data analysis, with programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching and product interventions informed by A/B testing
 - Collaborated cross-functionally to implement data-informed solutions by partnering with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
 - Provided technical leadership and enablement by delivering Metabase training and SQL enablement sessions for cross-functional teams after assessing technical capability gaps across 50+ coaching staff
 
@@ -42,9 +42,9 @@ I'm a driven data professional who builds impactful data products and translates
 
 - Teaching, coaching and mentoring apprentices through the Multiverse Data Fellowship programme, supporting them to successful completion of the apprenticeship programme and into their future careers
 
-<div class="print-breaks">
+<!-- <div class="print-breaks">
 &nbsp;
-</div>
+</div> -->
 
 `May 2012 - Feb 2017`
 **Chief of Operations**
@@ -82,18 +82,18 @@ __MRes Sport & Exercise Science (Distinction)__
 **Technical**
 
 - Power BI and Tableau for data reports and dashboarding
-- Extensive experience in building data products in Metabase using SQL
+- Extensive experience in building data products and dashboards
 - Coding languages:
   - R *(proficient, including Tidyverse and base R approaches, and package development)*
   - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
-  - SQL
+  - SQL *(including dbt)*
   - Web *(HTML, CSS, JavaScript, d3.js)*
 - git for collaborative codebase management
 
 **Data Analysis / Science**
 
+- Detailed understanding of qualitative and quantitative research methodology, including hypothesis testing, A/B testing, and predictive analytics
 - Understanding of developing and tuning machine learning models for variety of analysis needs such as regression, classification, and clustering
-- Detailed understanding of qualitative and quantitative research methodology
 - Deep appreciation for statistical thinking and the importance of evidence-backed decision making
 - Enthusiasm for effective, reproducible research, conveyed through concise narratives and compelling, beautiful visualisations
 
