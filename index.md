@@ -21,7 +21,7 @@ I'm a driven data professional who builds impactful data products and translates
 *[Multiverse](https://www.multiverse.io)*
 
 - Led data-driven monitoring and optimisation of Multiverse's largest data programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
-- Built end-to-end data products and automations in Metabase using SQL and Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for assessment results, withdrawals analysis, and learner satisfaction metrics
+- Built end-to-end data products and automations in Snowflake and Metabase using SQL and Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for assessment results, withdrawals analysis, and learner satisfaction metrics
 - Drove measurable programme improvements through data analysis, with programme performance data showing ~46% reduction in withdrawals after implementing targeted coaching and product interventions informed by A/B testing
 - Collaborated cross-functionally to implement data-informed solutions by partnering with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
 - Provided technical leadership and enablement by delivering Metabase training and SQL enablement sessions for cross-functional teams after assessing technical capability gaps across 50+ coaching staff
