@@ -15,7 +15,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 
 **Programme Data Analyst**  
-Multiverse, Oct 2024 - Dec 2025
+Multiverse, Oct 2023 - Dec 2025
 
 - Led data-driven monitoring and optimisation of Multiverse's largest data programmes, developing analytics infrastructure and delivering actionable insights to improve programme outcomes
 - Built end-to-end data products and automations in Snowflake and Metabase using SQL and Python scripts (reducing monthly reporting time from hours to 5 minutes), and developed self-service dashboards for assessment results, withdrawals analysis, and learner satisfaction metrics
@@ -25,7 +25,7 @@ Multiverse, Oct 2024 - Dec 2025
 
 
 **Data Science Programme Technical Lead**  
-Multiverse, Apr 2023 - Oct 2024
+Multiverse, Apr 2023 - Oct 2023
 
 - Worked on the largest Enterprise account at Multiverse to strategise and build bespoke operational and data science programme customisations to deliver on the needs of the client, and designed and delivered learning materials for internal stakeholders on these customisations
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
