@@ -15,7 +15,7 @@ I'm a driven data professional who builds impactful data products and translates
 
 ## Experience
 
-`July 2024 - Dec 2025`
+`Oct 2024 - Dec 2025`
 **Programme Data Analyst**
 
 *[Multiverse](https://www.multiverse.io)*
@@ -26,7 +26,7 @@ I'm a driven data professional who builds impactful data products and translates
 - Collaborated cross-functionally to implement data-informed solutions by partnering with Quality, Learning, and Compliance teams to identify programme health trends; designed and delivered technical training modules; contributed to national standard reviews with regulatory bodies (IfATE)
 - Provided technical leadership and enablement by delivering Metabase training and SQL enablement sessions for cross-functional teams after assessing technical capability gaps across 50+ coaching staff
 
-`Nov 2023 - July 2024`
+`Apr 2023 - Oct 2024`
 **Data Science Programme Technical Lead**
 
 *[Multiverse](https://www.multiverse.io)*
@@ -35,7 +35,7 @@ I'm a driven data professional who builds impactful data products and translates
 - Responsible for liaising with cross-functional departments to manage changes across the business and their interaction with client expectations and needs
 - Responsible for the assessment and delivery of additional technical skills needed to work as an Enterprise coach to the coaching team
 
-`Sept 2022 - Nov 2023`
+`Sept 2022 - Apr 2023`
 **Data Fellowship Coach**
 
 *[Multiverse](https://www.multiverse.io)*
@@ -57,19 +57,13 @@ I'm a driven data professional who builds impactful data products and translates
 
 ## Education
 
-__Microsoft Certified Power BI Data Analyst Associate__
+__Microsoft Certified Power BI Data Analyst__
 
 *Microsoft*
-
-- Prepare, model, visualise and analyse data in Power BI
-- Manage and secure Power BI reports and dashboards in the Power BI Service
 
 __Data Science Fellowship__
 
 [*General Assembly*](https://generalassemb.ly/)
-
-- Data cleaning, exploration, analysis, and visualisation in Python
-- Modelling with regression, classification, clustering, and time series machine learning techniques
 
 __MRes Sport & Exercise Science (Distinction)__
 
@@ -81,8 +75,9 @@ __MRes Sport & Exercise Science (Distinction)__
 
 **Technical**
 
-- Power BI and Tableau for data reports and dashboarding
-- Extensive experience in building data products and dashboards
+- Extensive dashboarding experience in BI tools including Metabase, Power BI, and Tableau
+- Extensive experience building data products using SQL
+- Experience with cloud environments for data management including Snowflake and GCP
 - Coding languages:
   - R *(proficient, including Tidyverse and base R approaches, and package development)*
   - Python *(including Pandas, scikit-learn, Seaborn, statsmodels)*
